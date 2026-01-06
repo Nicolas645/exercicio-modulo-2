@@ -1,2 +1,3 @@
-# exercicio-modulo-2
-Avaliação Prática de Git e GitHub
+# repo de exercícios
+- Avaliação Prática de Git e GitHub
+- Prática de Código (TypeScript e POO)
